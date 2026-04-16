@@ -11,7 +11,7 @@ public $cilindro;
 public $kilometraje;
 
 public $movimiento;
-
+wefwff
 public $encendido;
 
 public function __construct($marca,$modelo,$color,$tipo,$puertas,$cilindro,$kilometraje,$encendido,$movimiento)
